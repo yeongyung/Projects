@@ -13,3 +13,8 @@
 
   >### 5) CombineAll model
   <p align="center"><img src="Table/CombineAll.png" width="800">
+
+  >### 6) Other models
+ Other models (`LReLU`, `AdamBatch64`, `AdamBatch256`, `RAdamBatch64`, `RAdamBatch128`, `RAdamBatch256`, `Adam0.0005`, `Adam0.01`, and `TrainRatio0.4`) are based on the `Fiducial model`, with only minor modifications such as activation function, optimizer, batch size, learning rate or training ratio.
+
+
