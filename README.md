@@ -1,4 +1,4 @@
-# 📚  Convolutional Neural Networks for classifying galaxy mergers: Can faint tidal features aid in classifying mergers?
+# 📚  Convolutional Neural Networks for classifying galaxy mergers: Can faint tidal features aid in classifying mergers? (Lee et al. submitted)
 
 
 <!-- 📝 Abstract -->
